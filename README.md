@@ -21,11 +21,16 @@
 ### Данные
 
 Источник 1: [Тарифы на тепловую энергию](https://www.mos.ru/depr/function/tarifnaya-politika/tarify-na-zku-na-2020-god/)
+
 Источник 2: [Методика расчета теплопотерь стен здания](https://www.calc.ru/Teplopoteri-Doma-Raschet-Teplopoter.html)
+
 Источник 3: [Пример отчета о тепловизионном обследования дома](https://energo-audit.com/otchet-po-teplovizionnomu-obsledovaniu-zhylogo-doma)
+
 Источник 4: [Тепловизионная съёмка с БПЛА](https://disk.yandex.ru/d/56S7eTHSLGFkhA/20210324_202838?w=1)
+
 Источник 5: [Методические рекомендации по оценке энергосберегающий мероприятий](http://sro61.ru/docs/metodiki/Met.rek-cii-po-ocenke_effektivnosti_e-sb.mer..pdf)
-Источник 6: [Презентация кейса]()
+
+Источник 6: [Презентация кейса](https://github.com/Roman200110/githubcode/blob/master/Resources/%D0%9A%D0%B5%D0%B9%D1%81.pptx)
 
 ### Постановщик
 
